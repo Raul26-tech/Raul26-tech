@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho com desenvolvimento front-end
 - 🌱 Estou estudando a fundo e conhecendo melhor Javascript e Typescript
-- 😄 Pronouns: ele/dele
+
 
 <div align="left">
   <a href="https://github.com/Raul26-tech">
@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/raul-santos-75a1b8201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
-![Snake animation](https://github.com/Raul26-tech/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
