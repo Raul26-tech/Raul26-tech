@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente trabalho com desenvolvimento front-end
-- 🌱 Estou estudando a fundo e conhecendo melhor Javascript e Typescript
+- 🌱 Estou estudando a fundo Javascript e Typescript
 
 
 <div align="left">
