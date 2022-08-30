@@ -7,7 +7,7 @@
 - 🌱 Estou estudando a fundo Javascript e Typescript
 
 
-<div align="left" style="display:flex">
+<div style="display:flex">
   <a href="https://github.com/Raul26-tech">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul26-tech&layout=compact&langs_count=7&theme=github_dark"/>
