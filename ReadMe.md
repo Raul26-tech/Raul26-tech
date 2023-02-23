@@ -10,7 +10,7 @@ Hello friends, I'm Raul, welcome to my profile !!! I currently work with front-e
 # 📊 GitHub Stats:
 <div align="center">
 	<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&count_private=true&hide_border=true&title_color=51D1F6&icon_color=83d4b9&text_color=51D1F6&bg_color=000000ff"/>
-	<img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul26-tech&layout=compact&hide_border=true&title_color=51D1F6&icon_color=51D1F6&text_color=c9d1d9&bg_color=000000ff" />
+	<img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul26-tech&layout=compact&hide_border=true&title_color=51D1F6&icon_color=51D1F6&text_color=c9d1d9&bg_color=000000ff" />
 </div>
 
 ---
