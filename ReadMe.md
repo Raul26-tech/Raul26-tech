@@ -5,31 +5,33 @@
 ### 🚀 Tecnologias & Ferramentas
 
 #### Front-end
-- HTML 🌐
-- CSS 🎨
-- JavaScript (ES6) 🚀
-- TypeScript 💙
-- React ⚛️
-- React Hook Form 📝
-- Tailwind CSS 🌈
+- HTML 
+- CSS 
+- JavaScript (ES6) 
+- TypeScript 
+- React 
+- React Hook Form 
+- Tailwind CSS 
 
 #### Back-end
-- Node.js 🚀
-- Express ⚙️
-- TypeScript 💙
+- Javascript (ES6)
+- Node.js 
+- TypeScript 
+- Express
+- Typeorm
 
 #### Banco de Dados
-- Postgres 🐘
-- SQL 🔍
-- MySQL 🧡
+- Postgres 
+- SQL 
+- MySQL 
 
 #### Ferramentas de Versionamento de Código
-- Git 📜
-- GitHub 🐙
+- Git 
+- GitHub 
 
 #### DevOps
-- Docker 🐳
-- Docker Compose 🐳
+- Docker 
+- Docker Compose 
 
 ### 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&count_private=true&hide_border=true&title_color=51D1F6&icon_color=83d4b9&text_color=51D1F6&bg_color=000000ff)
