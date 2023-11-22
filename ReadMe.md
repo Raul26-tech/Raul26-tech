@@ -32,7 +32,7 @@
 - Docker Compose 🐳
 
 ### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&count_private=true&hide=issues&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&count_private=true&hide_border=true&title_color=51D1F6&icon_color=83d4b9&text_color=51D1F6&bg_color=000000ff)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul26-tech&layout=compact&hide_border=true&title_color=51D1F6&icon_color=51D1F6&text_color=c9d1d9&bg_color=000000ff)
 
 
