@@ -1,19 +1,42 @@
-# 💫 About Me:
-Hello friends, I'm Raul, welcome to my profile !!! I currently work with front-end development.Seedling I'm studying Javascript and Typescript in depth
+# Olá, eu sou Raul Santos! 👋
+
+## 💻 Desenvolvedor de Software
+
+### 🚀 Tecnologias & Ferramentas
+
+#### Front-end
+- HTML 🌐
+- CSS 🎨
+- JavaScript (ES6) 🚀
+- TypeScript 💙
+- React ⚛️
+- React Hook Form 📝
+- Tailwind CSS 🌈
+
+#### Back-end
+- Node.js 🚀
+- Express ⚙️
+- TypeScript 💙
+
+#### Banco de Dados
+- Postgres 🐘
+- SQL 🔍
+- MySQL 🧡
+
+#### Ferramentas de Versionamento de Código
+- Git 📜
+- GitHub 🐙
+
+#### DevOps
+- Docker 🐳
+- Docker Compose 🐳
+
+### 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&count_private=true&hide=issues&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul26-tech&layout=compact&hide_border=true&title_color=51D1F6&icon_color=51D1F6&text_color=c9d1d9&bg_color=000000ff)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rauul_guitar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raul-santos-75a1b8201) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-<div align="center">
-	<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&count_private=true&hide_border=true&title_color=51D1F6&icon_color=83d4b9&text_color=51D1F6&bg_color=000000ff"/>
-	<img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul26-tech&layout=compact&hide_border=true&title_color=51D1F6&icon_color=51D1F6&text_color=c9d1d9&bg_color=000000ff" />
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=Raul26-tech&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤝 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/raul-santos-802824275)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://rsportifolio.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rauul_guitar)
