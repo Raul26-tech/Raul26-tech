@@ -1,37 +1,25 @@
-# Olá, eu sou Raul Santos! 👋
+# Raul Santos - Desenvolvedor Full Stack JavaScript
 
-## 💻 Desenvolvedor de Software
+Olá! Eu sou Raul Santos, um desenvolvedor full stack com experiência em diversas tecnologias JavaScript.
 
-### 🚀 Tecnologias & Ferramentas
+## Tecnologias
 
-#### Front-end
-- HTML 
-- CSS 
-- JavaScript (ES6) 
-- TypeScript 
-- React 
-- React Hook Form 
-- Tailwind CSS 
+- Frontend: HTML, CSS, JavaScript (ES6+), React, TypeScript, Tailwind CSS, React Hooks, Styled Components
+- Backend: JavaScript (ES6+), Node.js, Express.js, RESTful APIs, TypeORM, TypeScript, SQL
+- Banco de Dados: PostgreSQL, MySQL
+- Ferramentas: Git, GitHub, Docker, npm, Swagger
 
-#### Back-end
-- Javascript (ES6)
-- Node.js 
-- TypeScript 
-- Express
-- Typeorm
+## Projetos
 
-#### Banco de Dados
-- Postgres 
-- SQL 
-- MySQL 
+Aqui estão alguns dos meus projetos mais recentes:
 
-#### Ferramentas de Versionamento de Código
-- Git 
-- GitHub 
+- [Forun de tecnologias](https://github.com/Raul26-tech/ProjetoReact.git): Um app onde a ideia é reunir informações sobre tecnologias.
+- [Plataforma de E-commerce](https://github.com/Raul26-tech/MyStore.git): Desenvolvimento de uma loja online com funcionalidades avançadas de carrinho de compras.
 
-#### DevOps
-- Docker 
-- Docker Compose 
+## Contato
+
+- LinkedIn: [Raul Santos](https://www.linkedin.com/in/raul-santos-802824275)
+- Email: raul26.tech@gmail.com
 
 ### 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&count_private=true&hide_border=true&title_color=51D1F6&icon_color=83d4b9&text_color=51D1F6&bg_color=000000ff)
