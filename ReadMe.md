@@ -1,12 +1,12 @@
-# Raul Santos - Desenvolvedor Full Stack JavaScript
+# Raul Santos - Desenvolvedor Full Stack
 
 Olá! Eu sou Raul Santos, um desenvolvedor full stack com experiência em diversas tecnologias JavaScript.
 
 ## Tecnologias
 
 - Frontend: HTML, CSS, JavaScript (ES6+), React, TypeScript, Tailwind CSS, React Hooks, Styled Components
-- Backend: JavaScript (ES6+), Node.js, Express.js, RESTful APIs, TypeORM, TypeScript, SQL
-- Banco de Dados: PostgreSQL, MySQL
+- Backend: JavaScript (ES6+), Node.js, Express.js, RESTful APIs, TypeORM, TypeScript
+- Banco de Dados: SQL, PostgreSQL, MySQL
 - Ferramentas: Git, GitHub, Docker, npm, Swagger
 
 ## Projetos
