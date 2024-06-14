@@ -10,19 +10,39 @@ Desenvolvedor full stack com foco em tecnologias modernas e melhores práticas d
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Frontend
-- HTML, CSS, JavaScript (ES6+)
-- React, TypeScript, Tailwind CSS
-- React Hooks, Styled Components
+- HTML,
+- CSS,
+- JavaScript (ES6+)
+- React,
+- TypeScript,
+- Tailwind CSS
+- React Hooks,
+- Styled Components
 
 ### Backend
-- JavaScript (ES6+), Node.js, Express.js
-- RESTful APIs, TypeORM, TypeScript, Jest
+- JavaScript (ES6+),
+- Node.js,
+- Express.js
+- RESTful APIs,
+- TypeORM,
+- TypeScript,
+
+### Testes
+- Jest
+- Testes Unitários
+- Testes de integração
 
 ### Banco de Dados
-- SQL, PostgreSQL, MySQL
+- SQL,
+- PostgreSQL,
+- MySQL
 
 ### Ferramentas
-- Git, GitHub, Docker, npm, Swagger
+- Git,
+- GitHub,
+- Docker,
+- npm,
+- Swagger
 
 ## 💼 Projetos
 
