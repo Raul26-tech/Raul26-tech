@@ -18,6 +18,7 @@ Desenvolvedor full stack com foco em tecnologias modernas e melhores práticas d
 - Tailwind CSS
 - React Hooks,
 - Styled Components
+- Shadcn UI
 
 ### Backend
 - JavaScript (ES6+),
@@ -26,11 +27,15 @@ Desenvolvedor full stack com foco em tecnologias modernas e melhores práticas d
 - RESTful APIs,
 - TypeORM,
 - TypeScript,
+- Nest.js
 
 ### Testes
 - Jest
 - Testes Unitários
 - Testes de integração
+
+### Arquiteturas
+- Clean architecture 
 
 ### Banco de Dados
 - SQL,
