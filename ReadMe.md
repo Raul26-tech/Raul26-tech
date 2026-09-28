@@ -1,76 +1,31 @@
-# Raul Santos - Desenvolvedor Full Stack
+# Raul Santos
 
-Olá! Eu sou Raul Santos, um desenvolvedor full stack apaixonado por criar soluções eficientes e inovadoras. Com experiência em diversas tecnologias JavaScript, estou sempre buscando aprender e aplicar novas habilidades.
+### Engenheiro de Software | Backend Java
 
+Sou engenheiro de software com atuação em desenvolvimento backend e foco em Java. Trabalho na construção de APIs e integrações entre sistemas, considerando regras de negócio, qualidade do código, persistência de dados e facilidade de manutenção.
 
-## 🚀 Sobre Mim
+Tenho interesse especial por arquitetura de software e pelos desafios que surgem quando um sistema precisa evoluir: definição de responsabilidades, comunicação entre serviços, consistência de dados, observabilidade, desempenho e escalabilidade. Procuro aplicar esses conceitos com decisões proporcionais ao problema e atenção aos seus impactos técnicos.
 
-Desenvolvedor full stack com foco em tecnologias modernas e melhores práticas de desenvolvimento. Tenho experiência em desenvolvimento front-end e back-end, além de um sólido entendimento de bancos de dados relacionais.
+## 🛠️ Competências técnicas
 
-## 🛠️ Tecnologias e Ferramentas
+- **Backend e integrações:** Java, Spring Boot, Node.js, TypeScript, APIs REST e integração entre sistemas.
+- **Arquitetura:** arquitetura hexagonal, Clean Architecture, modelagem de domínio e design de APIs.
+- **Dados:** PostgreSQL, MySQL, SQL Server, JPA/Hibernate e Flyway.
+- **Mensageria:** conceitos de comunicação assíncrona, processamento de eventos, filas, Kafka e RabbitMQ.
+- **Qualidade e desempenho:** testes unitários e de integração, JUnit, Mockito, Jest, testes de performance e k6.
+- **Infraestrutura e ferramentas:** Docker, Kubernetes, AWS, Azure, Git e OpenAPI/Swagger.
 
-### Frontend
-- HTML,
-- CSS,
-- JavaScript (ES6+)
-- React,
-- TypeScript,
-- Tailwind CSS
-- React Hooks,
-- Styled Components
-- Shadcn UI
+## 🧭 Abordagem de engenharia
 
-### Backend
-- JavaScript (ES6+),
-- Node.js,
-- Express.js
-- RESTful APIs,
-- TypeORM,
-- TypeScript,
-- Nest.js
-
-### Testes
-- Jest
-- Testes Unitários
-- Testes de integração
-
-### Arquiteturas
-- Clean architecture 
-
-### Banco de Dados
-- SQL,
-- PostgreSQL,
-- MySQL
-
-### Ferramentas
-- Git,
-- GitHub,
-- Docker,
-- npm,
-- Swagger
-
-## 💼 Projetos
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-### [Forun de Tecnologias](https://github.com/Raul26-tech/ProjetoReact.git)
-Um aplicativo onde a ideia é reunir informações sobre tecnologias. Desenvolvido com React, Tailwind CSS e Node.js para o backend.
-
-### [Plataforma de E-commerce](https://github.com/Raul26-tech/MyStore.git)
-Desenvolvimento de uma loja online com funcionalidades avançadas de carrinho de compras. Utiliza React, Node.js e PostgreSQL.
+Valorizo soluções que tornem as regras de negócio claras e permitam modificar o sistema com segurança. Ao desenvolver um serviço, considero seus contratos, persistência, tratamento de erros, testes e integração com outros componentes. Também estudo formas de medir o comportamento da aplicação e identificar gargalos antes de propor otimizações.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&count_private=true&hide_border=true&title_color=51D1F6&icon_color=83d4b9&text_color=51D1F6&bg_color=000000ff)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul26-tech&layout=compact&hide_border=true&title_color=51D1F6&icon_color=51D1F6&text_color=c9d1d9&bg_color=000000ff)
+![Estatísticas de Raul no GitHub](https://github-readme-stats.vercel.app/api?username=Raul26-tech&show_icons=true&theme=github_dark&hide_border=true)
+
+![Linguagens mais usadas nos repositórios](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul26-tech&layout=compact&theme=github_dark&hide_border=true)
 
 ## 📫 Contato
 
-- LinkedIn: [Raul Santos](https://www.linkedin.com/in/raul-santos-802824275)
-- Email: raul26.tech@gmail.com
-
-## 🌐 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/raul-santos-802824275)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://rsportifolio.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rauul_guitar)
+- [LinkedIn](https://www.linkedin.com/in/raul-santos-802824275)
+- **Email:** raul26.tech@gmail.com
